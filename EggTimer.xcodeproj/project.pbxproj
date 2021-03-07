@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		29CFE0DC25ECEDC50046AA19 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 29CFE0DB25ECEDC50046AA19 /* alarm_sound.mp3 */; };
 		AD5C106222D34E35001E14A5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD5C106122D34E35001E14A5 /* README.md */; };
 		ADF037EE22D332A800A69E9A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF037ED22D332A800A69E9A /* AppDelegate.swift */; };
 		ADF037F022D332A800A69E9A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF037EF22D332A800A69E9A /* SceneDelegate.swift */; };
@@ -18,7 +17,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		29CFE0DB25ECEDC50046AA19 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = alarm_sound.mp3; path = ../../../alarm_sound.mp3; sourceTree = "<group>"; };
 		AD5C106122D34E35001E14A5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		ADF037EA22D332A800A69E9A /* EggTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EggTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADF037ED22D332A800A69E9A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -65,7 +63,6 @@
 				ADF037EF22D332A800A69E9A /* SceneDelegate.swift */,
 				ADF037F122D332A800A69E9A /* ViewController.swift */,
 				ADF037F322D332A800A69E9A /* Main.storyboard */,
-				29CFE0DB25ECEDC50046AA19 /* alarm_sound.mp3 */,
 				ADF037F622D332AD00A69E9A /* Assets.xcassets */,
 				ADF037F822D332AD00A69E9A /* LaunchScreen.storyboard */,
 				ADF037FB22D332AD00A69E9A /* Info.plist */,
@@ -132,7 +129,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				ADF037FA22D332AD00A69E9A /* LaunchScreen.storyboard in Resources */,
-				29CFE0DC25ECEDC50046AA19 /* alarm_sound.mp3 in Resources */,
 				ADF037F722D332AD00A69E9A /* Assets.xcassets in Resources */,
 				AD5C106222D34E35001E14A5 /* README.md in Resources */,
 				ADF037F522D332A800A69E9A /* Main.storyboard in Resources */,
