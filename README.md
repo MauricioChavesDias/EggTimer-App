@@ -1,12 +1,15 @@
 ![Begin Banner](Documentation/readme-begin-banner-mau.png)
 
+
 # Egg Timer
 
 This app was built during the course "Complete iOS App Development Bootcamp" from Appbrewery by Angela Yu.
 
+
 ## Description
 
 A beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
+
 
 ## What I learned with this app
 
