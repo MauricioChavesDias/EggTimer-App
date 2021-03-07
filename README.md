@@ -11,14 +11,12 @@ This app was built during the course "Complete iOS App Development Bootcamp" fro
 A beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
 
 
-<<<<<<< HEAD
 ## Screenshot
 
 <img src= Documentation/Screenshot1.png height="375" width="175">
 <img src= Documentation/Screenshot2.png height="375" width="175">
 
-=======
->>>>>>> 23217135c769abd02e3b3329f5087cc3af553822
+
 ## What I learned with this app
 
 * Swift Collection types - Dictionaries
